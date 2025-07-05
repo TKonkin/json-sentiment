@@ -159,7 +159,7 @@ wheel
 loguru
 
 # HTTP requests made simple
-# requests
+requests
 
 # Environment variables management
 # python-dotenv
@@ -308,7 +308,9 @@ seaborn
 
 # SpaCy: A powerful NLP library ~50 MB (core library; language models + ~300 MB or more per model).
 # Currently requires Python <=3.12
-# spacy<3.7
+spacy
+
+spacytextblob
 
 # ======================================================
 # SENDING ALERTS via Simple Email or SMS Text using Gmail
